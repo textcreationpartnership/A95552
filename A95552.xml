@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iohn Taylors last voyage, and adventure, performed from the twentieth of Iuly last 1641. to the tenth of September following. In which time he past, with a scullers boate from the citie of London, to the cities and townes of Oxford, Gloucester, Shrewesbury, Bristoll, Bathe, Monmouth and Hereford. The manner of his passages and entertainement to and fro, truly described. With a short touch of some wandring and some fixed scismatiques, such as are Brownist, Anabaptists, famalies, humorists and foolists, which the authour found in many places of his voyage and iourney. / By Iohn Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95552</idno>
+            <idno type="STC">Wing T473</idno>
+            <idno type="STC">Thomason E1100_3</idno>
+            <idno type="STC">ESTC R208333</idno>
+            <idno type="EEBO-CITATION">99867291</idno>
+            <idno type="PROQUEST">99867291</idno>
+            <idno type="VID">169395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169395)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1100[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iohn Taylors last voyage, and adventure, performed from the twentieth of Iuly last 1641. to the tenth of September following. In which time he past, with a scullers boate from the citie of London, to the cities and townes of Oxford, Gloucester, Shrewesbury, Bristoll, Bathe, Monmouth and Hereford. The manner of his passages and entertainement to and fro, truly described. With a short touch of some wandring and some fixed scismatiques, such as are Brownist, Anabaptists, famalies, humorists and foolists, which the authour found in many places of his voyage and iourney. / By Iohn Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>by F.L. for Iohn Taylor, and may be had at the shoppe of Thomas Bates in the Old Baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Description and travel --  1601-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169395:1" rendition="simple:additions"/>
+            <p>Iohn Taylors laſt Voyage, AND ADVENTVRE, PERFORMED from the twentieth of <hi>Iuly</hi> laſt 1641. to the tenth of <hi>September</hi> following. In which time he paſt, with a Scullers Boate from the Citie of <hi>London,</hi> to the Cities and Townes of <hi>Oxford, Glouceſter, Shrewesbury. Briſtoll, Bathe, Monmouth and Hereford.</hi> The manner of his Paſſages and Entertainement to and fro, truly deſcribed. With a ſhort touch of ſome wandring and ſome fix<g ref="char:EOLhyphen"/>ed Sciſmatiques, ſuch as are Browniſts, Anabaptiſts, Famalies, Humoriſts and fooliſts, which the Authour found in many places of his Voyage and Iourney.</p>
+            <p>By <hi>Iohn Taylor.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>F. L.</hi> for <hi>Iohn Taylor,</hi> and may be had at the ſhoppe of <hi>Thomas Bates</hi> in the Old Baily. 1641.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:169395:2"/>
+            <pb facs="tcp:169395:2"/>
+            <head>To his Friend M<hi rend="sup">r</hi>. <hi>John Tayler,</hi> on his voyage and Iourney.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>F true affection doth your muſe inſpire</l>
+               <l>To'th honor'd welfare of your native place,</l>
+               <l>Then ſet your hand to now I you deſire;</l>
+               <l>The time is now, when you may do us grace.</l>
+            </lg>
+            <lg>
+               <l>This Subiect ſure is large, if you thinke of it</l>
+               <l>You are not bounded, but you may at eaſe</l>
+               <l>Survey, collect the good the honour profit</l>
+               <l>Of trade, of Citie, Countrey, Rivers, Seaes.</l>
+            </lg>
+            <lg>
+               <l>It may provoke ſome yet not thought upon</l>
+               <l>To raiſe the ruines of this decayed place;</l>
+               <l>To procecute this hopefull worke begun</l>
+               <l>And leave ſome honour to our after Race.</l>
+            </lg>
+            <lg>
+               <l>From ancient <hi>Monmouth Geffery</hi> tooke his name,</l>
+               <l>So <hi>Henry</hi> did from <hi>Huntington</hi> likewiſe;</l>
+               <l>Why may not <hi>Glouceſter</hi> ad to <hi>Taylors</hi> fame,</l>
+               <l>Since that from thence his birth and name did riſe.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <hi>Glouceſter</hi> 
+                  <date>this 3 of Auguſt. 1641.</date>
+               </dateline>
+               <signed>Yours to command <hi>HENRY ELLIS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:169395:3"/>
+            <pb facs="tcp:169395:3"/>
+            <head>Iohn Taylor Water-Poet ANAGRAMME: <hi>Loapety-Troian roweth.</hi>
+            </head>
+            <lg>
+               <l>STrange Newes! There is arrived at our Key;</l>
+               <l>A wandring Poet alwaies in his way;</l>
+               <l>Whoſe wilfull Errors makes him thus to vaunt,</l>
+               <l>
+                  <hi>Aeneas</hi>-like, I came from <hi>Troyonvant.</hi>
+               </l>
+               <l>I rowed in Rivers ſometimes checkt by Milles,</l>
+               <l>Steer'd under Bridges, and came over Hilles.</l>
+               <l>The Oares of pleaſure and of profit brought</l>
+               <l>This Water-Poet hither in his boat;</l>
+               <l>And hence he muſt, but yet he will I trow</l>
+               <l>To the <hi>Brittaines</hi> rather then the <hi>Latines</hi> row:</l>
+               <l>Engliſh will ſerve him rightly to rehearſe</l>
+               <l>His crooked travells in good proſe or verſe.</l>
+               <l>When as the winds of fancy ceaſe to blow him;</l>
+               <l>If he have watermen to row or tow him;</l>
+               <l>Expect Relations, I beleeve in fyne</l>
+               <l>The Poets waterworkes will goe in wine,</l>
+               <l>And all his dry-land paſſages appeare</l>
+               <l>With caſuall events both here and there.</l>
+               <l>Now I doe wiſh he may accomplſh it</l>
+               <l>Without expence of any thing but wit.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <hi>Glouceſter</hi> 
+                  <date>3. <hi>Auguſt.</hi> 1641.</date>
+               </dateline>
+               <signed>Yours IO. DORNEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:169395:4"/>
+            <pb facs="tcp:169395:4"/>
+            <head>
+               <hi>IOHN TAYLORS</hi> LAST VOYAGE, AND ADVENTVRE performed from the twentieth of <hi>Iuly</hi> laſt 1641. to the tenth of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> following.</head>
+            <lg>
+               <l>OF famous <hi>Rivers, Brooks, Bournes, Rills,</hi> &amp; <hi>Springs,</hi>
+               </l>
+               <l>Of <hi>Deepes</hi> and <hi>Shallowes</hi> my invention Sings,</l>
+               <l>Of <hi>Rocks</hi> Impenetrable, <hi>fourds</hi> and <hi>Mills</hi>
+               </l>
+               <l>Of <hi>Stopps,</hi> and <hi>Weares, Shelves, Sands,</hi> and mighty <hi>Hills</hi>
+               </l>
+               <l>Of Navigable paſſages (Neglected)</l>
+               <l>Of Rivers Spoyl'd, men begger'd and deiected.</l>
+               <l>Of <hi>Tame,</hi> of <hi>Iſis, Seaverne, Wye,</hi> and <hi>Teme</hi>
+               </l>
+               <l>
+                  <hi>Lugg', Loden, Doyre,</hi> and <hi>Monnoes</hi> Pearly Streame,</l>
+               <l>Of theſe, of more then theſe, and of their Vſes,</l>
+               <l>And of their miſerable ſtrange Abuſes.</l>
+               <l>I truely treate that men may note and ſee</l>
+               <l>What bleſſings Navigable Rivers bee,</l>
+               <l>And how that thouſands are debar'd thoſe bleſſings,</l>
+               <l>By few mens Avaritious hard oppreſsings.</l>
+               <l>I alſo ſhew how thoſe faults may be mended</l>
+               <l>And no man have iuſt cauſe to be offended.</l>
+               <l>And with a paire of Oares (for that intent)</l>
+               <l>I once from <hi>London</hi> unto <hi>Lincolne</hi> went,</l>
+               <l>Whereas a paſſage ſeven miles was cut thorowe</l>
+               <l>From <hi>Lincolne</hi> into <hi>Trent,</hi> and to <hi>Gainsborowe;</hi>
+               </l>
+               <pb facs="tcp:169395:5"/>
+               <l>That way I paſt, and into <hi>Humber</hi> paſt</l>
+               <l>To <hi>Hull,</hi> from thence to <hi>Owſe,</hi> and <hi>Yorke</hi> at laſt,</l>
+               <l>Another Voyage to the Weſt, againe</l>
+               <l>I (with a Wherry) paſt the raging maine</l>
+               <l>From <hi>London</hi> to the Iſle of <hi>Wight,</hi> and thence</l>
+               <l>To <hi>Salisbury</hi> (with Time and Coynes expence)</l>
+               <l>Since when our gratious ſoveraigne did ordaine</l>
+               <l>The Uiſcount <hi>Dorcheſter</hi> to take the paine</l>
+               <l>To view what wrongs the River <hi>Thames</hi> did beare</l>
+               <l>I ſerved then, and every <hi>Stoppe</hi> and <hi>Weare</hi>
+               </l>
+               <l>And all impediments, I found I writ</l>
+               <l>And hoping for amendment) printed it.</l>
+               <l>For care was taken, and true induſtrie</l>
+               <l>That from faire <hi>Oxfords</hi> Vniverſity</l>
+               <l>To <hi>London</hi> I Annottomiz'd the flood</l>
+               <l>And ſhew'd it's qualities both bad and good.</l>
+               <l>Promiſe was made, <hi>Thames</hi> wrongs ſhould bee re<g ref="char:EOLhyphen"/>form'd</l>
+               <l>And ſome ſmall helps were ſpeedily perform'd</l>
+               <l>But yet not halfe is done that then was ſpoken</l>
+               <l>
+                  <hi>(All promiſes are either kept or broken)</hi>
+               </l>
+               <l>For as a monument, of our diſgraces</l>
+               <l>The Rivers too too fowle in many places.</l>
+               <l>I have deſcrib'd heere many an injury</l>
+               <l>In three great Rivers, <hi>Severne, Thames,</hi> and <hi>Wye</hi>)</l>
+               <l>Beſides two Rivers <hi>Avon,</hi> one makes ſpeede</l>
+               <l>To <hi>Bristol,</hi> (and doth make it rich indeede.)</l>
+               <l>And would <hi>Bathe</hi> cure that Rivers great amiſſe</l>
+               <l>That City would be richer then it is,</l>
+               <l>But each man to himſelfe beares private love</l>
+               <l>And no man will the generall griefe remove.</l>
+               <pb facs="tcp:169395:5"/>
+               <l>The other <hi>Avon</hi> Ruines paſt <hi>Gloſter</hi> Weſt</l>
+               <l>From <hi>Briſtols Avon</hi> fifty miles at leaſt,</l>
+               <l>It glides to <hi>Stretford</hi> Towne from <hi>Coventry</hi>
+               </l>
+               <l>And into <hi>Severne</hi> falls at <hi>Tewxbury.</hi>
+               </l>
+               <l>Of Rivers, many writers well have done</l>
+               <l>Grave <hi>Camden, Draytons Polyolbyon</hi>
+               </l>
+               <l>And painefull <hi>Speede,</hi> doth in his Mappes declare</l>
+               <l>Where all theſe Brookes and waters were and are,</l>
+               <l>But yet not any one have ſought (but I)</l>
+               <l>To finde their wrongs, and ſhew ſome remedy.</l>
+               <l>I ſhew the meane neglect of Navigation</l>
+               <l>For few mens profit, publique lamentation,</l>
+               <l>T'e encreaſe ſome five or ſixe mens Treaſury</l>
+               <l>Whiles twenty thouſand lives in miſery,</l>
+               <l>From ſhore to ſhore brave Rivers are dam'd ſo</l>
+               <l>That not a woodden diſh hath roome to go,</l>
+               <l>no not a hand breadth, but that all is ſtop'd</l>
+               <l>And from the poore man all reliefe is ſtop'd</l>
+               <l>It is the goodneſſe of our God to give</l>
+               <l>To us foure <hi>Elements,</hi> whereby we live:</l>
+               <l>Thoſe Elements, <hi>Fire, Water, Ayre</hi> are nam'd</l>
+               <l>And <hi>Earth</hi> (of which althings are made and fram'd,</l>
+               <l>And all thoſe bleſsings, the great God of Heaven</l>
+               <l>(Some more, ſome leſſe to every man hath given.</l>
+               <l>By ayre and breath (and breath no man buy</l>
+               <l>Ayre ſerves all creatures in community)</l>
+               <l>And though earth yeeld materialls for the fire,</l>
+               <l>Which many a ſonne (by right) holds from his ſire,</l>
+               <l>Yet ſure me thinkes the water ſhould be free</l>
+               <l>For paſſage, for all men of each degree.</l>
+               <pb facs="tcp:169395:6"/>
+               <l>And though the Rivers in proportions are</l>
+               <l>Shar'd thine, or mine, or this or that mans ſhare</l>
+               <l>Yet ſure, where God gives water, boates to beare</l>
+               <l>It ſhould not be ſtop'd up, with Mill or Weare.</l>
+               <l>And now my meaning plainer to diſcloſe,</l>
+               <l>A little while I'le turne my Verſe to Proſe.</l>
+            </lg>
+            <p>AS Raine from the <hi>Firmament</hi> is drawne from the Sea, and other waters and vapours of the <hi>Earth,</hi> and <hi>Ayre,</hi> by the vigour of the <hi>Sunne,</hi> whereby Rivers ſpring and overflow Graſſe, Groves, Fruits encreaſe, fiſhes multiplie, beaſts and cattell breede and waxe fat, Corne plentifulls, Butter and Cheeſe in abun<g ref="char:EOLhyphen"/>dance, and all other bleſsings for the life of man or beaſt is nouriſhed with milke of Heaven (as raine may juſtly be called) So Navigable Rivers are the Cheri<g ref="char:EOLhyphen"/>ſhing veines of the body of every Countrey, King<g ref="char:EOLhyphen"/>dome, and Nation: And as the veines of man doth diſtill ſupporting ſuſtinence, to every part and mem<g ref="char:EOLhyphen"/>ber of his Body; ſo doe paſſable Rivers convey all manner of commodities from place to place, to the benefit of all and every place in every Countrey and Teritorie.</p>
+            <p>My ſelfe bearing a naturall affection to Portable Rivers, and a ſetled inclination and deſire of the pre<g ref="char:EOLhyphen"/>ſervation and uſe of them, did for the ſame intent e<g ref="char:EOLhyphen"/>ſpecially lately paſſe with a ſmall Scullers boate into five great Rivers of this Kingdome; for the which in<g ref="char:EOLhyphen"/>tent, (to beare charges) I procured divers of my friends to ſubſcribe to ſeverall Bills, for them to pay
+<pb facs="tcp:169395:6"/>me ſome ſeverall ſmall ſummes of money, upon my delivery to each of them a booke at my returue of the paſſages and entertainements which I had in my journey; which booke this is, which you are now reading, and how I paſt out and came backe againe, with many occurrences that happened I have truely related as followeth.</p>
+            <p>On the twentieth day of <hi>Iuly</hi> laſt, 1641. (the ſecond day of the dogged Dogdayes (I with my two men and a brace of boyes were embarqued with a Scul<g ref="char:EOLhyphen"/>lers boate firſt from <hi>London,</hi> and within halfe a quar<g ref="char:EOLhyphen"/>ter of an houre after, I paſt from my houſe neare the Beares Colledge on the Banckſide, I tooke leave of ſome friends, and had a flagge advanced as a token of my publike departure; but ſome enemies gave out that I was Runne away, who I doe know (ſince my re<g ref="char:EOLhyphen"/>turne,) to be a crew of malicious <hi>Vermin,</hi> (that ſtill being the moſt auntient name of their Captaine and leader,) on the day afforeſaid with many ſtops, ſtayes, and taking leaves, wee gat to <hi>Oatlands</hi> at night, and lodged at <hi>Weybridge</hi> at the ſigne of the ſixe <hi>Ankers.</hi> The next day, being wendneſday I ſtrived againſt the ſtreame as farre as <hi>Great Marlow,</hi> in <hi>Bucking hamſhire,</hi> where I Lodg'd at the ſigne of the Crowne. Thurſe<g ref="char:EOLhyphen"/>day the 22. of <hi>Iuly,</hi> I paſt (with much toyle) from <hi>Marlow</hi> to <hi>Goring;</hi> and the next day I came to <hi>Abing<g ref="char:EOLhyphen"/>ton.</hi> If it be demanded why I was ſo may dayes in paſ<g ref="char:EOLhyphen"/>ſing 130 miles, I anſwer that the River (by reaſon of a great drought) wanted water in may places, ſo that wee were forc'd to wade, and leade or hale the boate
+<pb facs="tcp:169395:7"/>divers times, and moreover we did pull the ſaid Boate over or thorough 14. Locks, beſides many other im<g ref="char:EOLhyphen"/>pediments, which hindred our paſſage.</p>
+            <p>As farre as above <hi>Stanes</hi> (which is forty miles by water from <hi>London,</hi> The River <hi>Thames</hi> is by the care and providence of the Lord Mayor well conſerved and kept from impediments of Stops, Weares, Sand beds and other hindrances of paſſages of eyther Boates or Barges, and from <hi>Stanes</hi> to the furtheſt part almoſt there is no ſtoppage (but only Weares, which Weares have Lockes to open and ſhut for the paſ<g ref="char:EOLhyphen"/>ſing to and fro of all manner of veſſells (paſſable tho<g ref="char:EOLhyphen"/>rough from <hi>London</hi> to <hi>Oxford;</hi> betwixt which Cities the Barges doe draw up nineteene of thoſe Lockes with engines (like Capſtanes) which are called <hi>Crabbs.</hi> I doe relate this heare, becauſe the Reader may by that which followeth underſtand, that though Weares be neceſſary in Rivers, yet they ought not to ſtop up all paſſages, but to ſuffer Lockes to be opened and ſhut as <hi>Thames</hi> hath.</p>
+            <p>Thurſeday the twenty ſeaven, I paſſed with my Boate from <hi>Abington</hi> to <hi>Oxford,</hi> where I was well en<g ref="char:EOLhyphen"/>tertained with good cheere and worſhipfull compa<g ref="char:EOLhyphen"/>ny at <hi>Vniverſity Colledge;</hi> The next day I paſſed to a place called <hi>Bablack Hive</hi> (or <hi>Hithe.</hi>) And on Thurſe<g ref="char:EOLhyphen"/>day the twenty nine, I paſſed by <hi>Lechlad,</hi> and came to <hi>Creeklad;</hi> This towne of <hi>Creeklad</hi> is five miles di<g ref="char:EOLhyphen"/>ſtant by land from <hi>Ciciter,</hi> but it is eaſier to row ſixtie miles by water on the River of <hi>Thames,</hi> then it is to paſſe betweene thoſe two townes, for there are ſo
+<pb facs="tcp:169395:7"/>many milles, fords and ſhallowes with ſtops, and o<g ref="char:EOLhyphen"/>ther impediments that a whole daies hard labour with my ſelfe and foure more could neyther by toyle or Art get but to a Mill of one Maſter <hi>Hortones</hi> at a place called <hi>Suddington,</hi> a mile ſhort of <hi>Ciciter,</hi> ſo that ac<g ref="char:EOLhyphen"/>cording to land meaſure we went but foure miles in a long dayes travell. The laſt of <hi>Iuly</hi> I left <hi>Suddington</hi> Mill, with the honeſt welcome of the Miller and his wife, and with much a doe for want of water I gatt to <hi>Ciciter,</hi> where the River was ſo dry that it would beare my boate no further; at the hither end of that Towne there ſtands a great Barne belonging to one <hi>Cooke,</hi> of whom I hired a Waine, wherein I put my Boate my ſelfe and my Men, Boyes and luggage, this Waine did in leſſe then five houres draw me from the River <hi>Iſis</hi> neere <hi>Ciciter,</hi> to a brooke called <hi>Stroud,</hi> which booke hath it's head or Spring in <hi>Beſſley</hi> Hundred neere <hi>Miſſerden</hi> in <hi>Cotſwould</hi> in <hi>Gloſterſhire,</hi> (<hi>Stowd</hi> and <hi>Churne</hi> might be cut into one, and ſo <hi>Severne</hi> &amp; <hi>Thames</hi> might be made almoſt ioyned friends) are within 4. miles of <hi>Churne,</hi> which hath its firſt ſpring nere <hi>Cober<g ref="char:EOLhyphen"/>ley,</hi> 7. miles from <hi>Gloceſter</hi> &amp; falles into <hi>Iſis</hi> about <hi>Laech<g ref="char:EOLhyphen"/>lad,</hi> ſo that 4 miles cutting in the Land betwixt <hi>Churne</hi> and <hi>Stroud,</hi> would be a meanes to make paſſages from <hi>Thames</hi> to <hi>Severne,</hi> to <hi>Wye,</hi> to both the Rivers of <hi>Avon</hi> in <hi>England,</hi> and to one River of <hi>Avon</hi> in <hi>Monnouthſhire,</hi> which falles into the River of <hi>Vske</hi> neere <hi>Cirlion</hi> in <hi>Wales.</hi> By which meanes goods might be conveyed by water too &amp; from <hi>London,</hi> in Rivers at cheape rates without danger, almoſt to half the countyes in <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+               <pb facs="tcp:169395:8"/>and <hi>Wales.</hi> But there is a devill or two called <hi>ſloth</hi> and <hi>covetuouſneſſe,</hi> that are the bane of all good en<g ref="char:EOLhyphen"/>deavours and laudable Actions, but more of this ſhall be ſaid hereafter.</p>
+            <p>I being vncarted (with my boate) at a place called <hi>Stonehouſe,</hi> in the Afforeſaid brooke called <hi>Stroud,</hi> with paſsing and wading, with haling over high bankes at fulling milles (where there are many) with plucking over ſuncke trees, over and under ſtrange Bridges of wood and ſtone, and in ſome places the brooke was ſcarce as broad as my Boate, I being oftentimes im<g ref="char:EOLhyphen"/>peached with the bowghes and branches of willowes and Alder Trees, which grew ſo thicke, hanging over and into the brooke, ſo that the day light or Sunne could ſcarce peepe through the branches, that in many places all paſſages were ſtop'd; ſo that I was ſome times forced to cut and hew out my way with a hatchett; with this miſerable toyle all the day I gat at night to a Mill called <hi>Froombridge Mill,</hi> whereas (for our comfort) was neither Victualing houſe, meate, drinke or lodging, but that a good gentlewoman, one Miſtris <hi>Bowſer,</hi> there did comiſerare our wants, and though ſhe were not accuſtomed to victuall or lodge Travellers, yet the rarety of our boate, and ſtrangenes of my adventure moved her ſo farre that ſhee at an caſie rate did furniſh us with good dyet, my ſelfe with a bed in an out-houſe, and my men and boyes with a ſweet new mowed and new made hayloft.</p>
+            <p>I am much ingaged to a gentleman (one Maſter <hi>Iohn Stephens,</hi>) whoſe worthy father <hi>Nathaniell Ste<g ref="char:EOLhyphen"/>phanes</hi>
+               <pb facs="tcp:169395:8"/>Eſquire) is one of the Knights of the Shire for the County of <hi>Gloceſter,</hi> in this Honorable and high Court of Parliament. To this Houſe at <hi>Eſtington</hi> (corruptly called <hi>Eſton</hi>) I was invited from the Mill with my company, where we both at dinner and ſup<g ref="char:EOLhyphen"/>per had welcome and good entertainement on Sun<g ref="char:EOLhyphen"/>day the firſt of <hi>Auguſt.</hi> I doe further acknowledge my gratitude, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Maſter <hi>Mew</hi> the Miniſter there, both for his Spirituall paines taking, twice the ſaid Saboth, and and alſo I thanke him for other courteſies which hee beſtowed on me.</p>
+            <p>Munday the ſecond of <hi>Auguſt</hi> I tooke my leave at <hi>Froombridge Mill,</hi> and (falling to our old worke againe of haleing and draweing from Mill to Mill, and from one hindrance to another, I came at laſt to <hi>Whitmiſter,</hi> where after I had plucked my boate over, I with my <hi>Murnivall</hi> of followers were ſtayed at the command of a worthy Gentleman named Maſter <hi>Thomas LLoyd,</hi> to whoſe houſe neere there we went upon ſmall intreat<g ref="char:EOLhyphen"/>ty, whence my ſudden entertainement was ſo freely generous as might have beſeemed the perſo<g ref="char:cmbAbbrStroke">̄</g> of a good Knight or Eſquire. The ſaid gentleman went with me to the brookes mouth, and ſaw me entred into the River of <hi>Severne,</hi> where (with thankes) I tooke my leave of him, and in two or three howers ſpace I ſwom up the <hi>Severne</hi> to the ancient Citie of <hi>Gloceſter,</hi> where I was borne, and where by reaſon of almoſt fifty yeares abſence I was ſcarce knowne. But the right worſhipfull <hi>Thomas Hill</hi> Eſquire, Mayor of <hi>Gloceſter</hi> gave me noble entertainement, and invited mee and
+<pb facs="tcp:169395:9"/>my ſervants to his houſe: the next day at dinner, and afterwards about three in the afternoone, he came to the key at the River ſide, where I entred my boate and tooke leave of him, &amp; went to <hi>Tewxbury</hi> being (ſome twelve miles by water that night, the fourth of <hi>Auguſt</hi> I paſt by the citie of <hi>VVorceſter</hi> up the River to <hi>Bewdley,</hi> where I lodged at the ſigne of the <hi>Pyde Bull;</hi> The third of <hi>Auguſt,</hi> I went from <hi>Bewdley</hi> (being an ex<g ref="char:EOLhyphen"/>treame rainy day) and that night approaching I ſaw a faire houſe belonging to a Knight named Sir <hi>VVil<g ref="char:EOLhyphen"/>liam VVhitmore,</hi> thither I went and demanded of ſome of his ſervants whether lodging might bee had for money, where a poore man did anſwer, that if I would but croſſe the River with him, and goe but halfe a mile up a hill, I ſhould have the beſt entertainement his poore cottage could afford, and neceſsity having no law, I accepted willingly;</p>
+            <p>And ſurely that faire houſe I laſt ſpake of, was of a ſtrange operation, for I was wet to the skinne when I went thither, and in leſſe then halfe a quarter of an houre I came away as dry as ever I was in my life; this is a miſterie or a Riddle, for I ſaw not the butler.</p>
+            <p>The ſixt of <hi>Auguſt</hi> I paſt thorough many ſharpe ſtreames, fords, and ſhallowes to a place called <hi>Coond<g ref="char:EOLhyphen"/>lane-end,</hi> where I lodgd at a Smiths, it being the one and only houſe there</p>
+            <p>The ſeventh of <hi>Auguſt</hi> (being Saterdy) I arived at <hi>Shroſebury,</hi> where I tooke harbour at one <hi>Luckmans</hi> houſe upon the lower bridge, in the afternoone I went to the Major <hi>Thomas wingfield</hi> Eſquire, he bad me wel<g ref="char:EOLhyphen"/>come
+<pb facs="tcp:169395:9"/>(but had no leaſure to bid me drinke,) but he came from the Towne Hall with me to my lodging, and ſaw mee in my boate, and after<g ref="char:EOLhyphen"/>wards with his hand and ſeale of his office, tooke his leave dryly of me. But Maſter <hi>Thomas Iones,</hi> an Alderman there, that had borne the office of a Bayliffe there, ſixe times before <hi>Shrewesbury</hi> was a Mayor Towne, and (as I was informed hee was the firſt Mayor of that place, and he hath al<g ref="char:EOLhyphen"/>ſo beene high Sheriffe of the County of <hi>Salop</hi> (or <hi>Shropſhire</hi>) that Gentleman invited mee to dine with him on munday the ninth of <hi>Auguſt,</hi> where there was no want of good company, fiſh, fleſh, foule, veniſon, wine, and welcom.</p>
+            <p>That afternoone I left <hi>Shewesbury,</hi> and retur<g ref="char:EOLhyphen"/>ned downe the River twelve miles by water to <hi>Coonde-lane-end,</hi> where I lodged at my old Hoſts the Smiths houſe.</p>
+            <p>The tenth of <hi>Auguſt</hi> I came to the Citie of <hi>Worceſter,</hi> where the Right worſhipfull <hi>William Norris</hi> Eſquire, Mayor there made me extraor<g ref="char:EOLhyphen"/>dinarily welcome, giving his teſtimoniall under his hand and ſeale of Mayoraltie, that I was there with my boate.</p>
+            <p>Wendneſday the eleventh of <hi>August</hi> I retur<g ref="char:EOLhyphen"/>ned to <hi>Glouceſter,</hi> where I was well entertained at a veniſon feaſt, by the right Worſhipfull Maſter Mayor and his Bretheren. And preſently (after dinner) I tooke boate and left <hi>Gloucester,</hi> and paſt
+<pb facs="tcp:169395:10"/>downe the River 12. miles to a place called <hi>Gat<g ref="char:EOLhyphen"/>combe,</hi> there I ſtayed while ſuch time as the tyde would ſerve me towards <hi>Bryſtow,</hi> (which was a<g ref="char:EOLhyphen"/>bout midnight,) But one Maſter <hi>Hooper</hi> that dwells there, being a very good Seaman, did give me good inſtructions and directions to a<g ref="char:EOLhyphen"/>voyde many dangers in that nightly paſſage, be<g ref="char:EOLhyphen"/>ſides I followed the tract of a boate laden with fruit which was bound for <hi>Bristow,</hi> ſo that after all nights labour amongſt rockes and perrilous deepes, whirling Gulfes and violent ſtreames, a<g ref="char:EOLhyphen"/>bout the Breake of day, on Friday the 13 of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> I came to <hi>Kingroad,</hi> and ſtaying there a while for the flood, I paſt up that River of <hi>Avon</hi> at <hi>Hungroad</hi> by <hi>Crockhampill,</hi> and by nine of the clock in the forenoone I came to the rich and fa<g ref="char:EOLhyphen"/>mous City of <hi>Briſtoll.</hi>
+            </p>
+            <p>My entertainement there I will ſet downe in briefe, which was by the Right Worſhipfull <hi>Iohn Taylor</hi> Eſquier Mayor, a Gentleman en<g ref="char:EOLhyphen"/>dowed (by the bounty of Heaven) both with right and left hand bleſſings, on Sunday the fifteenth of <hi>Auguſt</hi> my ſelfe and followers were his invited gueſts twice: and the next day hee gave mee a Certificate under hand and ſeale of my Arivall at that Citie, and at my taking leave of him (he knowing that travell was chargeable) did diſcharge a peece at me, and I unfearefull of the ſhott, did put it up moſt thankfully; my
+<pb facs="tcp:169395:10"/>humble thankes to my Coſin Maſter <hi>Thomas Taylor</hi> at the Marſh there, whoſe friendſhip and favour I cannot requit or forget.</p>
+            <p>On the ſixteenth of <hi>Auguſt</hi> I departed from <hi>Briſtoll,</hi> towards the Citie of <hi>Bath,</hi> which is ten miles diſtant by land, and neere ſeventeene by water, which with paſſing by water over foure or five Milles and Weares, I attained to, at which Citie of <hi>Bathe</hi> I ſtayed two nights, being wel<g ref="char:EOLhyphen"/>come to the Right Worſhipfull Maſter <hi>Mathew Clift</hi> Mayor, with good entertainement from him &amp; ſome other Towneſmen, I tooke his hand and ſeale of Mayoraltie for my Certificate, and ſo returned to <hi>Briſtoll</hi> againe on wedneſday the eighteenth of <hi>August.</hi>
+            </p>
+            <p>The nineteenth of <hi>Auguſt,</hi> at midnight I left <hi>Bristoll,</hi> and with the tyde paſt downe the River into <hi>Kingroad,</hi> where I lay at the Hole mouth (as they call it) till the flood came, and day light beginning to appeare, with the ſame tyde I paſt the broad water twelve miles to the River of <hi>Wye</hi> in <hi>Monmouth</hi> ſhire; that day I paſt by <hi>Cheapſtow,</hi> by the old Abbey of <hi>Tinterne,</hi> and to litle <hi>Tin<g ref="char:EOLhyphen"/>terne</hi> where I lay all that night, in a very cleane<g ref="char:EOLhyphen"/>ly wholſome welch <hi>Engliſh</hi> Alehouſe. The twenty one I came to <hi>Monmouth</hi> (the ſhire Towne of that Countrey) where one Maſter <hi>William Guilliam</hi>) did give me ſuch entertaine<g ref="char:EOLhyphen"/>ment at his houſe (on Sunday the twenty two
+<pb facs="tcp:169395:11"/>of <hi>August</hi>) as I am bound gratefully to remem<g ref="char:EOLhyphen"/>ber.</p>
+            <p>Munday the twenty three of <hi>Auguſt,</hi> I left <hi>Monmouth,</hi> and (with a vvhole dayes labour by vvater) according to the miles by land) I got not a foote of ground; for at night when I came to a place called <hi>Lidbrooke,</hi> I was twelve miles from <hi>Hereford,</hi> and I was but twelve miles from the ſaid Citie vvhen I vvas in the morning at the Tovvne of <hi>Mounmouth,</hi> this doth ſhevv that the River of <hi>Wye</hi> doth runne a little crooked from <hi>Lidbrooke.</hi> I vvent (on Saint <hi>Bartholomewes</hi> day) to the Tovvne of <hi>Roſſe,</hi> vvhere I lodged nere <hi>Wilton</hi> Bridge there: and on the tvventie five I vvent to <hi>Foane Hope;</hi> and the tvventy ſixe day about tenne of the clocke I gat to the Citie of <hi>Hereford,</hi> vvhich vvas the laſt place and the end of my painefull travell, Ioruney, Voyage, Perambulation, and Peregrination, or vvhat you pleaſe to call it; At <hi>Hereford</hi> I vvas invited to three ſeverall places to dine on the friday, and I being not able to ſatisfie them all, gave them all the ſlippe, the three places vvere <hi>Edmond Aſhton</hi> Eſquire Mayor, the ſecond the <hi>Vicars</hi> at the Min<g ref="char:EOLhyphen"/>ſter or Colledge; thirdly, at a Taverne vvith diverſe Gentlemen, but I having gotten the Mayors hand &amp; ſeale, becauſe I could not pleaſe all, left all, and ſtole avvay like a true man, leaving my thankes for Maſter Mayor, and Maſter <hi>Phil<g ref="char:EOLhyphen"/>lip
+<pb facs="tcp:169395:11"/>Traherne,</hi> vvith all the reſt, for their kindneſſe to me the day before.</p>
+            <p>At my being at <hi>Hereford</hi> I vvas in a quandary or brovvne ſtuddy, vvhether it vvere beſt to ſell my boat, &amp; returne to <hi>London</hi> by land, or elſe to bring the boate home againe either by land or vvater, or both, or how I could: at laſt I determined &amp;. reſolved to bring the monumentall veſſell backe againe, vvhich I did as follovveth.</p>
+            <p>On friday the 27. of <hi>Auguſt</hi> I paſſed dovvne the River of <hi>Wye</hi> to a place called <hi>Inckſon Weare,</hi> vvhere, vvith great entertainement and vvelcom I vvas lodged and my men alſo at the houſe of one Maſter <hi>Aperley,</hi> dvvelling there, to vvhom (for many) favours I doe acknovvledge my ſelfe to bee extraordinarily beholding. And on the Saterday I came to <hi>Lidbrook</hi> to my former Hoſte Maſter <hi>Moſſe,</hi> where underſtanding and knowing the paſſage down <hi>VVye</hi> and up <hi>Severne</hi> to be very long &amp; dangerous (eſpecially if ſtormye weather ſhould ariſe, the boate being ſplit, torne &amp; ſhaken that ſhe did leake very much) theſe things conſi<g ref="char:EOLhyphen"/>dered, &amp; that I was within five miles of <hi>Severne</hi> by land to <hi>Newnham,</hi> and that by water thither there was no leſſe then 50 miles, I hired a Wayne frow <hi>Lidbrook</hi> to <hi>Newnham.</hi> And on Munday the 30. of <hi>Auguſt</hi> I paſt up <hi>Severne,</hi> by <hi>Gloceſter</hi> (and working all night) came in the morning betimes to <hi>Tewxbury,</hi> into another River called <hi>Avon,</hi> which by thegreat charge and induſtry of Maſter
+<pb facs="tcp:169395:12"/>
+               <hi>Sands</hi> is made Navigable, many miles up into the Countrey. Tuſeday the 31 of <hi>August</hi> I came to a Market Towne in <hi>VVorceſterſhire</hi> called <hi>Per<g ref="char:EOLhyphen"/>ſhore.</hi> On the firſt of <hi>September</hi> I came to the Aun<g ref="char:EOLhyphen"/>cient Towne of <hi>Eveſholm</hi> (corruptly called <hi>E<g ref="char:EOLhyphen"/>ſham</hi>) and ſeeing that River to bee further and further out of my way home, I hired another Wayne from <hi>Eſham</hi> to <hi>Burford,</hi> where I found a crooked brooke called <hi>VVindruſh,</hi> in which brooke (after one nights lodging) with my ap<g ref="char:EOLhyphen"/>pendixes having taken each of us a Burford bait, we paſſed many ſtrange letts and hindrances in<g ref="char:EOLhyphen"/>t othe River of <hi>Iſis</hi> or <hi>Thames:</hi> Againe at <hi>New<g ref="char:EOLhyphen"/>bridge</hi> 12. or 14. miles from <hi>Oxford</hi> by water. By which Vniverſity I paſt to <hi>Abingdon.</hi> The fourth of <hi>September,</hi> where I ſtayed till Wedneſday the eight day: from thence was I with my boate at home on the Friday following And thus in leſſe then twenty dayes labour 1200. miles were paſt to and fro in moſt hard, difficult and many dan<g ref="char:EOLhyphen"/>gerous paſſages, for the which I give God moſt humble and hearty prayſe and thankes; and now I crave the Readers patlence a little whilſt I briefely treate of a few things that may bee pro<g ref="char:EOLhyphen"/>fitable as well as pleaſant.</p>
+            <p>I have before related of certaine ſtops, milles, and wares that doe hinder the paſſages of boates of <hi>Thames</hi> and <hi>Iſis,</hi> now I will treate a little of the abuſes and uſes of other Rivers.</p>
+            <p>As for the River of <hi>Severne,</hi> it is almoſt as much
+<pb facs="tcp:169395:12"/>abus'd as us'd, for an inſtance, there are Coale<g ref="char:EOLhyphen"/>mines neere it, and by the benefit of that River, mane a hundred family is ſerved with ſuficient fewell at cheape rates, but ſome of thoſe Cole<g ref="char:EOLhyphen"/>mines doe yeeld neere 1000 tunnes of Rubbiſh yearely, which by reaſon of the neereneſſe of the River is all waſhed into it, and makes ſo many ſhallowes, that in time <hi>Severne</hi> vvill bee quite choaked up, and all paſſage ſtopped, but of that River more at the concluſion.</p>
+            <p>
+               <hi>Avon</hi> River, that ſerveth <hi>Briſtoll</hi> would alſo be made to ſerve <hi>Bathe,</hi> and many other parts and places, if <hi>Lockes</hi> were made at weſt <hi>Hanham</hi> weare, and at <hi>Keniſham,</hi> (with 4. or 5. places more) for the River doth offer Gods bleſſing to the peoples mouthes, if they would but open their lippes to receive them.</p>
+            <p>The River <hi>Wye</hi> is debard of all paſſages with Boates, by 7. Weares, 2. of them are <hi>Monmouth</hi> Weare, &amp; <hi>Wilton</hi> Weare, the other 5. are <hi>Inkſon</hi> Weare, <hi>Carow, Founehope, Hancocks</hi> and <hi>Bondnam</hi> Weare, theſe ſeven weares (like the ſeven dead<g ref="char:EOLhyphen"/>ly ſinnes) doe dam up all goodneſſe that ſhould come from <hi>Monmouth</hi> to <hi>Hereford</hi> by water, and if the yron milles in the forreſt of <hi>Deane</hi> doe eate up all the wood there (as it hath already done reaſonably well and ill) within theſe few yeares, if the paſſages be ſtopt with Weares that coales cannot be carried by water to <hi>Hereford</hi> and ma<g ref="char:EOLhyphen"/>ny other places, it is to be feared that many rich
+<pb facs="tcp:169395:13"/>men will bee glad to blow their fingers ends in the Winter through want of fiering, and num<g ref="char:EOLhyphen"/>bers of poore will periſh with extreame cold; the complaints and cryes are grievous already; which if I had not heard and ſeene I would not have beleeved: and 7. lockes at thoſe Weares would helpe all and hinder nobody, or elſe onely two Lockes would doe much good, the one at <hi>Monmouth</hi> Weare, &amp; the other at <hi>Wilton,</hi> which is but eight miles from <hi>Hereford,</hi> and good vvay by land, for the carriage of any thing that might be brought by vvater.</p>
+            <p>For the other Kiver <hi>Avon,</hi> it comes from be<g ref="char:EOLhyphen"/>yond the City of <hi>Coventry,</hi> and running by the Tovvnes of <hi>Stretford, Eveſholme,</hi> and <hi>Perſhore,</hi> it falles into <hi>Severne</hi> at <hi>Tewexbury,</hi> ſo that <hi>Glouceſter<g ref="char:EOLhyphen"/>ſhire</hi> (my native Countrey) is encompaſt round vvith Navigable Rivers, of vvhich Citie and Countrey I vvill ſpeake a little for Countries ſake, but moſt of all for love I beare to truth and Charity.</p>
+            <p>Records and Hiſtories doe make trve relation of the antiquity of the Citie of <hi>Glouceſter,</hi> that it vvas built by <hi>Arviragus</hi> (a Brittaine King) in the time of <hi>Claudus Tiberius Caeſar,</hi> The ſaid <hi>Claudius</hi> being the <hi>Roman Emperour,</hi> and commander of the vvhole World; in vvhoſe Raigne our bleſ<g ref="char:EOLhyphen"/>ſed Saviour ſuffered; King <hi>Arviragus</hi> and <hi>Lucius</hi> (the firſt Chriſtian King doe lye there buried: vvhen the <hi>Saxons</hi> had the rule and domination
+<pb facs="tcp:169395:13"/>here in the raigne of <hi>Vier Pendragon</hi> and the renow<g ref="char:EOLhyphen"/>ned worthy King <hi>Arthur,</hi> that City and County had a Duke, a Biſhop, and a Major; aboue 1100 yeares paſt, their names were <hi>Edell, Eldadus,</hi> and <hi>Eldor,</hi> the ſhire is divided in 33. Hundreds, of which the Citie it ſelfe is one, and two Hundreds more named <hi>Kings Burton</hi> and <hi>Dunſtone,</hi> with 30. Townes and Villages are annexed to the ſaid Citie; which is all under the commande of the Major and his brethren. It hath beene anciently famous for the Trade of Merchandi<g ref="char:EOLhyphen"/>ſing, (now altogether decayed, the more is the pitty) King <hi>Henry</hi> the third was Crowned there the 28. of <hi>October</hi> 1216. there hath been many Dukes &amp; Earles of <hi>Gloceſter</hi> ſince the <hi>Norman</hi> Conqueſt, as firſt <hi>Robert fittz Hamon,</hi> ſecond <hi>William de Mondevill,</hi> third <hi>Robert de Millent,</hi> which Robert was taken priſoner &amp; was ex<g ref="char:EOLhyphen"/>changed for King <hi>Stephen,</hi> the ſaid King being then taken priſoner by <hi>Maude</hi> the Empreſſe) the fourth Earle of <hi>Gloceſter,</hi> was <hi>William</hi> ſonne to the ſaid <hi>Robert,</hi> and Lord of <hi>Glamorgan,</hi> was buried at <hi>Kinſham</hi> 1183. <hi>Iohn</hi> (who was afterwards King of <hi>England</hi>) was the third Earle of <hi>Gloceſter,</hi> the ſixt was <hi>Almerick Mount<g ref="char:EOLhyphen"/>fort,</hi> buried at <hi>Keinſham.</hi> Sixt <hi>Geoffery de mandevile,</hi> he was ſlaine at a Tilting or Tournament 1216. The 7. was <hi>Gilbert de Clare</hi> 1230. The 8. <hi>Richard de Clare</hi> 1262. The 9. <hi>Gilbert de Clare,</hi> the ſecond of that name 1295. all theſe three were buried at <hi>Tewxbury. Richard de Mount hermer</hi> was the 10. Earle 1323. <hi>Gilbert de Clare</hi> (the ſon of <hi>Gilbert</hi> the ſecond) was the 11. Earle, was ſlaine at <hi>Sherbin</hi> in <hi>Scotland,</hi> and buried at <hi>Tewxbury</hi>
+               <pb facs="tcp:169395:14"/>1313. <hi>Hugh de Audley</hi> the 12 Earle dyed 1347. buried at <hi>Tunbridge. Thomas of Woodſtock,</hi> the ſon of K. <hi>Edward</hi> the third, Duke of <hi>Gloceſter,</hi> was murthered at <hi>Callice</hi> 1397. <hi>Thomas Spencer</hi> the 13 Earle, was beheaded at <hi>Briſtow</hi> 1400. <hi>Humphrey Plantagenet,</hi> the fourth ſon of K. <hi>Edward</hi> the fourth (who was called the good <hi>Duke Humphrey</hi>) was murthered, buried at S. <hi>Albons</hi> 1440. <hi>Richard</hi> Duke of <hi>Gloceſter</hi> (afterwards King of <hi>England</hi>) was ſlaine at the battle of <hi>Boſworth,</hi> and buried at <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> 1485. <hi>Henry</hi> of <hi>Oatlands</hi> the fourth ſonne to our Soveraigne Lord King <hi>Charels,</hi> was borne at <hi>Oatlands</hi> in <hi>Surey</hi> on wedneſday the eight of <hi>Iuly</hi> 1640. now Duke of <hi>Gloceſter,</hi> whom God bleſſe. And ſo much (though much more might be ſaid for the honour of <hi>Gloceſter</hi> and Gloceſterſhire.</p>
+            <p>That commerce and Trade is the ſtrength and ſin<g ref="char:EOLhyphen"/>newes of the common wealth, the chiefe and onely ſubſiſtance of Cities and Corporations, it is appa<g ref="char:EOLhyphen"/>rently evident. And the greateſt honour and glory of Kingdomes, &amp; the reaſons why ſeverall meanes there are that brings wealth and honour to a citie, all of them put together in one ballance, and the trade of Merchandiſing in the other, it ſhall overprize them al, upon it alone hangs and depends almoſt all other trades, it brings great wealth and honour to all places where it is proſecuted with ſucceſſe. Witneſſe that of <hi>Leogorne,</hi> which within this 30. or 40. yeares was but a poore fiſhing towne which by that trade alone is now the greateſt Mart of the <hi>Medeterenian</hi> Seas. As likewiſe the Low-countries, although they cannot
+<pb facs="tcp:169395:14"/>build a ſhip, but muſt fetch the materials from 6. ſeve<g ref="char:EOLhyphen"/>rall kingdomes, yet they build and have more ſhips then all Chriſtendome beſides, &amp; have not any thing almoſt of a naturall ſtaple commodity to deale upon, yet by that trade alone they have ingroſſed the grea<g ref="char:EOLhyphen"/>teſt part of the trade, of the Chriſtian World to the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelves; &amp; ſome of them (if they pleaſe) may be gaineful in the trade of merchandiſing there. Now that the Citie of <hi>Gloceſter</hi> is ſcituated in as convenient a place as any other within this Kingdome, the reaſons fol<g ref="char:EOLhyphen"/>lowing ſhall demonſtrate. Firſt the ſaid Citie hath beene an auncient Port towne, graced &amp; infrancheſed with priviledges as ample as <hi>London,</hi> or any other citie or Towne within this Kingdom, &amp; dignified with the title of the 3. ſon of the Kings, and hath beene famous in former ages for the trade of Merchandizing now altogether decayed; And is likewiſe ſituated in as rich a ſoyle as any in this Kingdome, whoſe Markets are alwaies ſtored with abundance &amp; varieties of all com<g ref="char:EOLhyphen"/>modities that the kingdome of <hi>England</hi> affords, inci<g ref="char:EOLhyphen"/>dent to the life and being of man. And it is likewiſe ſituated in as convenient a place for any trade of Merchandizing being upon the famous River of <hi>Se<g ref="char:EOLhyphen"/>verne,</hi> then which there is not any more miles Navi<g ref="char:EOLhyphen"/>gable within this Kingdome, &amp; alſo the River of <hi>Avon</hi> being made Navigable with in foure miles of <hi>Warwick</hi> which ſtandeth in the heart and center of the ſaid Kingdome, having both the ſaid Rivers, the advantage of all opportunities both for exportation &amp; importa<g ref="char:EOLhyphen"/>tion of all goods and commodities whatſoever into
+<pb facs="tcp:169395:15"/>and from at leaſt a third part of the ſaid Kingdome, &amp; which parts vents as many forraine commodities and yeelds as many varieties of commodities as any o<g ref="char:EOLhyphen"/>ther part of the ſaid Kingdome doth. And which ſaid parts cannot bee ſerved by or from any other parts; then by the ſaid Rivers unleſſe they will fetch &amp; bring their commodities over the land three or foure ſcore miles at a great charge, which cannot bee conceived they will doe, if it may be brought home to their doores by water; the ſaid Citie having by ſpeciall grant under the Great Seale, a ſpatious and conve<g ref="char:EOLhyphen"/>nient Key or Wharfe built of ſtone neare the Kings Cuſtome-houſe upon the ſaid River, at which Key or Wharfe the Sea doth in its due courſe continually ebbe and flow for the bringing in and out of ſhips, and other boates of convenient burthen, ſo that a ſhip of a hundred and fifty tunne, or thereabouts, may at eve<g ref="char:EOLhyphen"/>ry tide come to <hi>Gatcombe,</hi> which is but 12 miles from <hi>Glouceſter,</hi> and therelye ſecure, and the River of <hi>Wye</hi> runneth into the <hi>Severne</hi> tenne miles above <hi>Kingrode,</hi> where ſhips of two or three hundred Tunnes may lye ſecure and ſafe.</p>
+            <p>And I have obſerved, that the trade that <hi>Briſtoll</hi> driveth up to the city of <hi>Glouceſter:</hi> and beyond it, in ſmall Barkes hoighes and Trowes, is at the leaſt two hundred Tunnes of all commodities, every ſpring, which is every fortnight or leſſe. And it is conceiued and more then probable, that if the ſaid trade of Merchandizing were ſettled within the ſaid City of <hi>Clouceſter,</hi> (as heretoforeit hath beene) that neither
+<pb facs="tcp:169395:15"/>the trades men of the ſaid City of <hi>Glouceſter,</hi> nor others that live three or foure ſcore miles above it, will goe downe to <hi>Briſtoll,</hi> and may have their com<g ref="char:EOLhyphen"/>modities in <hi>Glouceſter,</hi> for divers Reaſons and incon<g ref="char:EOLhyphen"/>veniences that may thereby happen.</p>
+            <p>As firſt it ſaveth threeſcoure miles riding in a dirty Countrey, next the ventring of their goods from <hi>Briſtoll</hi> to <hi>Glouceſter</hi> by Water, ſometimes caſt away, ſometimes (the ſpring not ſerving) they are benept, and ſo cannot have their commodities to ſerve their turne, but uſually much abuſed by Trow-men, ſo that many that live up the River beyond <hi>Glouceſter,</hi> are thereby greatly diſcouraged, and doe many times buy their commoditys at <hi>London, Souththampton, Hull,</hi> and <hi>Cheſter,</hi> and ſo bring it home by land three or foureſcore miles at a great charge, which if the trade were ſettled at <hi>Glouceſter</hi> they would not doe, for which Reaſons aforeſaid and many other that might be alledged, it hath cauſed divers men well skilled and verſed in the ſaid trade of Merchandizing, much to wonder that the ſaid trade hath beene ſo long neg<g ref="char:EOLhyphen"/>lected, many of which hath concluded that the ſaid City of <hi>Glonceſter</hi> with the ſaid key and havens, and the Kings cuſtome houſe thereunto, doe lye as conve<g ref="char:EOLhyphen"/>nient for the ſaid trade of Merchandizing, as any other City or Towne within this kingdom, and might drive the greateſt trade of any other (<hi>London</hi> only excepted.) For this City of <hi>Gloucester,</hi> ſtands almoſt within (or neere) the Center of this kingdome, and for exporta<g ref="char:EOLhyphen"/>tion and Importation, of all Native and forraigne
+<pb facs="tcp:169395:16"/>commodities (by Reaſon of the riches of the ſoyle) and Commodiouſneſſe of the Adiacent Rivers, it is com<g ref="char:EOLhyphen"/>parable to any place, except the Metropolis <hi>London.</hi> The village of <hi>Galcombe</hi> being at firſt built for the trade of <hi>Gloucester,</hi> (moſt commodious.) Now foraſmuch as it may be objected, that the River of <hi>Seavern</hi> is dange<g ref="char:EOLhyphen"/>rous, I muſt confeſſe it is ſo to thoſe that know it not; and through want of practiſe (whereby experience ſhoweth) but to thoſe that know it, noe danger at all. For there is not one Barge in twenty that hath beene caſt away, but it hath been by the owners covetouſnes in loding too deep, or venturing too raſh upo<g ref="char:cmbAbbrStroke">̄</g> the tide, for feare they ſhould be be kept, &amp; ſo looſe the ſpring, all which with a certaine trade up and downe the Ri<g ref="char:EOLhyphen"/>ver might wiſely be prevented; All other difficulties that can or may be alledged, are of ſmall conſequence to hinder, if men of meanes and ingenious ſpirits doe undertake it. The reaſon aforeſaid hath induced ſome men well affected to the publike good, and welfarre of this City, to endeavour a beginning of this moſt ho<g ref="char:EOLhyphen"/>nourable action, and were they ſeconded with that in<g ref="char:EOLhyphen"/>couragement from others, which if they were as wil<g ref="char:EOLhyphen"/>ling, as every way able, both with their place and meanes, The neceſsity of this cauſe ſo earneſtly requi<g ref="char:EOLhyphen"/>ring it, the neceſsity of this cauſe (I ſay) ſo greatly moveing it, there is no doubt but by the bleſsing of the Almighty, and that in a ſhort time it might raiſe the ruines of the decayed trade of this City, ſo much complained of by all, and make it as honourable as now it is contemptible, which is &amp; ſhal be the dead<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:169395:16"/>prayers and deſires of him, who preſenteth this Hoping that no Churliſh <hi>Naball,</hi> Mallicious <hi>Sanballar,</hi> corrupted <hi>Tobiah,</hi> proud <hi>Haman,</hi> unmercifull <hi>Dives,</hi> or any of the deadly ſinnes, can or ſhall hinder ſo good a worke.</p>
+            <lg>
+               <l>FOr who can (but with pittie) here behold</l>
+               <l>Theſe multitudes of miſchiefes manifold,</l>
+               <l>Shall Rivers thus be barr'd with ſtops and locks,</l>
+               <l>With Mills, and Hills, with gravels beds, and rocks:</l>
+               <l>With weares, and weedes, and forced Iſlands made,</l>
+               <l>To ſpoyle a pulique for a private Trade?</l>
+               <l>Shame fall the doers, and th' Almighties bleſſng</l>
+               <l>Be heap'd upon their heads that ſeeke redreffing.</l>
+               <l>Were ſuch a buſineſſe to be done in Flanders</l>
+               <l>Or Holland mongſt the induſtrious Netherlanders,</l>
+               <l>They to deepe paſſages would turne our hils,</l>
+               <l>To Windmills they would change our watermils.</l>
+               <l>All helps unto theſe rivers they would ayd,</l>
+               <l>And all impedunents ſhall be deſtroyed:</l>
+               <l>Our vagabonds (the wandring brood of Caine,)</l>
+               <l>They would inforce thoſe runna gates take paine,</l>
+               <l>Whereby much profit quickly would accrue,</l>
+               <l>(For labour robs the hangman of his due.)</l>
+               <l>In common reaſon, all men muſt agree</l>
+               <l>That if theſe Rivers were made cleane and free,</l>
+               <l>One Barge, with eight poore mens iuduſtrious paines,</l>
+               <l>Would carry more than forty carts or waines.</l>
+               <l>And every waine to draw them horſes five,</l>
+               <l>And each two men or boye to guide or drive.</l>
+               <l>Charge of an hundred horſe and eighty men</l>
+               <l>With eight mens labour would be ſerved then,</l>
+               <l>Thus men would be implovd, and horſe preſerv'd,</l>
+               <l>And all the Countrey at cheape rates be ſerv'd.</l>
+               <l>'Tis ſaid the Dutchmen taught us drinke and ſwill,</l>
+               <l>I'm ſure we goe beyond them in that skill,</l>
+               <l>I wiſh (as we exceede them in what's bad,)</l>
+               <l>That we ſome portion of their goodneſſe had:</l>
+               <l>Then ſhould this worthy worke be ſoone begun,</l>
+               <l>And with ſucceſſefull expedition done?</l>
+               <pb facs="tcp:169395:17"/>
+               <l>Which I diſpaire not of, but humbly plead,</l>
+               <l>That God his bleſſings will increaſe and ſpread</l>
+               <l>On them that love this worke, and on their heires,</l>
+               <l>Their goods and chattels, and on all that's theirs?</l>
+               <l>I wiſh them bleſt externall, and internall,</l>
+               <l>And in the end with happineſſe eternall.</l>
+            </lg>
+            <p>In the moſt part of my Iourney, I came to few places but their was to be found plenty of beggers, or Doggmaticall, Sciſmaticall, full of Beggerly Rudiments, as the Apoſtle ſaith, <hi>Galathians.</hi> 4. Opi<g ref="char:EOLhyphen"/>nionated divers wayes; and every one would have his owne fancy, to ſtand for his Religion; for they all dif<g ref="char:EOLhyphen"/>fer one from another, yet all joyne againſt that which they have beene baptized and brought up in; In one place there is a blind old woman, and ſhe repeates, and Interprets: in another a <hi>Pavier,</hi> and he will take upon him to mend the way. Then their is a Strange fellow (a <hi>Baker,</hi>) one light loafe and he will new bolt, ſift, Knead, and mould Relligion. In another a <hi>quon<g ref="char:EOLhyphen"/>dam</hi> Brewers Clearke, (would faine be a Prieſt) and Preaches moſt wonderfully in a mault houſe, beſides a zealous Sowgelder, that profeſſeth moſt deſperate doctrine. Good Lord in thy mercy looke upon us, and give us true peace and unity, both in Church and Common wealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
